@@ -107,6 +107,9 @@ section#img2{
     footer{
         font-size: 0.6em;
     }
+    section.img p{
+        width: 300px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px){
@@ -121,5 +124,8 @@ section#img2{
     }
     footer{
         font-size: 0.8em;
+    }
+    section.img p{
+        width: 350px;
     }
 }
