@@ -46,6 +46,7 @@ footer{
     color: white;
     padding: 10px;
     text-align: center;
+    font-size: 1em;
 }
 
 section{
@@ -103,6 +104,9 @@ section#img2{
     section{
         font-size: 1.0em;
     }
+    footer{
+        font-size: 0.6em;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px){
@@ -114,5 +118,8 @@ section#img2{
     }
     section{
         font-size: 1.3em;
+    }
+    footer{
+        font-size: 0.8em;
     }
 }
